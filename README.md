@@ -101,31 +101,6 @@ Defensive mechanisms are deployed to make the model more robust against adversar
 - Defense effectiveness
 - Trade-offs between accuracy and robustness
 
-## How to Contribute
-
-Contributions are welcome! You can:
-- Enhance existing attack/defense methods
-- Add new adversarial techniques
-- Improve model performance
-- Add more comprehensive documentation
-- Share alternative defense strategies
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Author
-
-**AhmedMahmoud-123**
-
-## Related Topics
-
-- Adversarial Machine Learning
-- Model Robustness
-- Security in AI
-- SMS Classification
-- Machine Learning Security
-
 ## Resources & References
 
 - [Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)
@@ -134,4 +109,3 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Note**: For questions or specific implementation details, please refer to the detailed comments and explanations within the Jupyter Notebook.
