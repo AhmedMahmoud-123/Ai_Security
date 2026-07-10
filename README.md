@@ -34,13 +34,13 @@ The main implementation file containing:
    - Performance evaluation
 
 2. **Adversarial Attack Methods**
-   - Attack Method 1: [Description of first attack technique]
-   - Attack Method 2: [Description of second attack technique]
+   - Attack Method 1: [Adverserial attack]
+   - Attack Method 2: [Poisoning Attack]
    - Attack evaluation and analysis
 
 3. **Defense Mechanisms**
-   - Defense Method 1: [Description of first defense strategy]
-   - Defense Method 2: [Description of second defense strategy]
+   - Defense Method 1: [Adversarial Training]
+   - Defense Method 2: [Input Sanitization]
    - Defense effectiveness evaluation
 
 
