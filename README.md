@@ -43,42 +43,6 @@ The main implementation file containing:
    - Defense Method 2: [Description of second defense strategy]
    - Defense effectiveness evaluation
 
-## Key Features
-
-✅ Complete adversarial machine learning workflow  
-✅ Real-world SMS dataset implementation  
-✅ Multiple attack and defense strategies  
-✅ Comprehensive analysis and visualization  
-✅ Well-documented Jupyter Notebook  
-
-## Installation & Setup
-
-### Prerequisites
-
-- Python 3.7+
-- Jupyter Notebook/JupyterLab
-- Required packages (see requirements)
-
-### Required Libraries
-
-```bash
-pip install numpy pandas scikit-learn jupyter matplotlib seaborn
-```
-
-### Running the Project
-
-1. Clone the repository:
-```bash
-git clone https://github.com/AhmedMahmoud-123/Ai_Security.git
-cd Ai_Security
-```
-
-2. Open the Jupyter Notebook:
-```bash
-jupyter notebook ai-security-project.ipynb
-```
-
-3. Run all cells to execute the complete workflow
 
 ## Dataset
 
@@ -100,12 +64,6 @@ Defensive mechanisms are deployed to make the model more robust against adversar
 - Attack success rates
 - Defense effectiveness
 - Trade-offs between accuracy and robustness
-
-## Resources & References
-
-- [Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)
-- [SMS Spam Detection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
-- [Scikit-learn Documentation](https://scikit-learn.org/)
 
 ---
 
